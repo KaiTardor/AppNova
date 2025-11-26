@@ -79,9 +79,7 @@ Dividido en 2 épicas:
 - **main** → Rama principal con la versión estable del proyecto.
 - **sprint1_interfaz** → Implementación de OE1 (interfaz de la app).
 - **sprint2_actividades** → Implementación de OE2 (actividades educativas).
-.
-.
-.
+- (...)
 
 Luego miembro creará su propia rama personal a partir de la rama de la tarea:
 - Sprint 1 (Interfaz de la aplicación), partiendo de la rama sprint1_interfaz, cada alumno crea:
